@@ -54,7 +54,7 @@ QtProjet2Vaisseau::QtProjet2Vaisseau(QWidget *parent)
 
 
 
-
+	//Ceci est un test de commit
 
 	
 	
