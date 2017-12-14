@@ -54,13 +54,33 @@ QtProjet2Vaisseau::QtProjet2Vaisseau(QWidget *parent)
 
 
 
-	//Ceci est un test de commit
+	//Olivier
 
 	
-	
+	tabWid
 
 
-	
+
+
+
+
+
+
+
+
+	//Thomas
+
+
+
+
+
+
+
+
+
+
+
+		//Ibrahim
 
 
 	connect(&mTimer, &QTimer::timeout, this, &QtProjet2Vaisseau::tic); //Connecte mon timer
